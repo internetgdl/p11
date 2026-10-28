@@ -1,0 +1,4 @@
+account_id       = "4b3a5ad916d9a620d75beefea58cc1e0"
+api_token        = "<tu_api_token_aqui>"
+worker_name      = "simple-worker"
+d1_database_name = "simple-db"
