@@ -8,7 +8,7 @@ variable "api_token" {
   description = "Cloudflare API token with Workers and D1 permissions"
   type        = string
   sensitive   = true
-  default     = ""
+  default     = null
 }
 
 variable "worker_name" {
